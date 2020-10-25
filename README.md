@@ -15,4 +15,4 @@ If you actually want or need more:
 PS:
 Excel is not all bad:
 - [E2D3](https://e2d3.org) (Excel to D3, where D3 stands for Data Driven Documents; aka the most used library for defining your own visualisations)
-- https://mobile.twitter.com/kidehen/status/1248711829070774274
+- [Excel querying Linked Open Data cloud](https://mobile.twitter.com/kidehen/status/1248711829070774274)
