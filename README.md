@@ -10,8 +10,8 @@ This is very costly, both financially and emotionally, and must be improved:
 If you actually want or need more:
 - [oversimplified ultra-summary of FAIR data principles](https://srs.saxion.nl/wp-content/uploads/2019/01/SRS_poster_2019_FAIR-724x1024.jpg), from there go to [GO_FAIR](https://go-fair.org) for the real deal.
 - [Data-centric Manifesto](http://datacentricmanifesto.org/) Data 1st!, applications should be 'mere visitors'.
-- [a research Data Management Plan template](https://srs.saxion.nl/dmp_template/)
-- My other brainstorm- [ideas on getting&using data FAIR&early in happy cooperation workflows](https://github.com/search?q=user%3Asteltenpower+fair-early)
+- [an example of a research Data Management Plan template](https://srs.saxion.nl/dmp_template/)
+- Some of my related brainstorm-[ideas on getting&using data FAIR&early in happy cooperation workflows](https://github.com/search?q=user%3Asteltenpower+fair-early)
 
 Excel is not all bad if you know how to use it, plus there are nice extensions:
 - [E2D3](https://e2d3.org) (Excel to D3, where D3 stands for Data Driven Documents; aka the most used library for defining your own visualisations)
