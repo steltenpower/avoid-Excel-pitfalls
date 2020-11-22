@@ -3,7 +3,7 @@ Well-meaning people using Excel, are without realizing it, making analysts and c
 This is very costly, both financially and emotionally, and must be improved:
 - I suggest to have everybody invest a few hours in ["Data Organization in Spreadsheets ..."](https://datacarpentry.org/spreadsheet-ecology-lesson/).
 (Mental note: Excel's comma-delimited .csv is actually semi-colon delimited, see if there are carpentry courses to explain this and maybe mention how to roundtrip from Python/R with Excel on CSV)
-- Advertise this everywhere, including in the default 'new Excel sheet'. Maybe make this sheet pre-structured, like what I made a rough sketch for in the Excel file in [spreadSheetVariants](https://github.com/steltenpower/SpreadsheetVariants)
+- Advertise that course, this page, or your own, everywhere, including in the default 'new Excel sheet'. Maybe make this sheet pre-structured, like what I made a rough sketch for in the Excel file in [spreadSheetVariants](https://github.com/steltenpower/SpreadsheetVariants)
 - Questions will arise and Digital Competence Centers and the like should be great for answering them
 - When the 'damage' is already done, and you have to figure out the (implicit and hidden?) structure of an already existing Excel spreadsheet, look at https://mobile.twitter.com/steltenpower/status/1330290665322934278
 
