@@ -5,10 +5,10 @@ This is very costly, both financially and emotionally, and must be improved:
 (Mental note: Excel's comma-delimited .csv is actually semi-colon delimited, see if there are carpentry courses to explain this and maybe mention how to roundtrip from Python/R with Excel on CSV)
 - Advertise that course, this page, or your own, widely in contexts, including in the default 'new Excel sheet'.
 - Try a pre-structured spreadsheet, like what I made a rough sketch for in the Excel file in this repo.
-- Questions will arise and Digital Competence Centers and the like should be great for answering them
 - When the 'damage' is already done, and you have to figure out the (implicit and hidden?) structure of an already existing Excel spreadsheet, look at https://mobile.twitter.com/steltenpower/status/1330290665322934278
+- Questions will arise and Digital Competence Centers and the like should be great at answering them
 
-If you actually want or need more:
+If you actually want or need further structuring of data:
 - [oversimplified ultra-summary of FAIR data principles](https://srs.saxion.nl/wp-content/uploads/2019/01/SRS_poster_2019_FAIR-724x1024.jpg), from there go to [GO_FAIR](https://go-fair.org) for the real deal.
 - [Data-centric Manifesto](http://datacentricmanifesto.org/) Data 1st!, applications should be 'mere visitors'.
 - [an example of a research Data Management Plan template](https://srs.saxion.nl/dmp_template/)
