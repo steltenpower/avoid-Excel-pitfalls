@@ -1,5 +1,5 @@
 # pre-Excel-present
-Well-meaning people using Excel, are without realizing it, making analysts and coders cry.
+Well-meaning people using Excel, are without realizing it, making analysts and coders cry for inefficiency reasons.
 This is very costly, both financially and emotionally, and must be improved:
 - I suggest to have everybody invest a few hours in ["Data Organization in Spreadsheets ..."](https://datacarpentry.org/spreadsheet-ecology-lesson/).
 - Advertise this everywhere, including in the default 'new Excel sheet'. Maybe make this sheet pre-structured, like what I made a rough sketch for in the Excel file in [spreadSheetVariants](https://github.com/steltenpower/SpreadsheetVariants)
