@@ -7,6 +7,7 @@ This is very costly, both financially and emotionally, and must be improved:
 - Try a pre-structured spreadsheet, like what I made a rough sketch for in the Excel file in this repo.
 - When the 'damage' is already done, and you have to figure out the (implicit and hidden?) structure of an already existing Excel spreadsheet, look at https://mobile.twitter.com/steltenpower/status/1330290665322934278
 - Questions will arise and Digital Competence Centers and the like should be great at answering them
+- It is not uncommon that finding and cleaning of data takes way more time than everything else in a project. Put that in your planning and make sure managers read it, to make sure they think about investing in data quality.
 
 If you actually want or need further structuring of data:
 - [oversimplified ultra-summary of FAIR data principles](https://srs.saxion.nl/wp-content/uploads/2019/01/SRS_poster_2019_FAIR-724x1024.jpg), from there go to [GO_FAIR](https://go-fair.org) for the real deal.
