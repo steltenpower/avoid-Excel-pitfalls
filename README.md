@@ -1,5 +1,5 @@
 # pre-Excel-present
-Well-meaning people using Excel, are without realizing it, making analysts and coders cry for inefficiency reasons.
+Well-meaning people using Excel, are without realizing it, too often making analysts and coders cry for inefficiency reasons.
 This is very costly, both financially and emotionally, and must be improved:
 - I suggest to have everybody invest a few hours in ["Data Organization in Spreadsheets ..."](https://datacarpentry.org/spreadsheet-ecology-lesson/).
 - Advertise that course, this page, or your own, widely in contexts, including in the default 'new Excel sheet'.
