@@ -17,3 +17,4 @@ If you actually want or need further structuring of data:
 Excel is not all bad if you know how to use it, plus there are nice extensions:
 - [E2D3](https://e2d3.org) (Excel to D3, where D3 stands for Data Driven Documents; aka the most used library for defining your own visualisations)
 - [Excel querying Linked Open Data cloud](https://mobile.twitter.com/kidehen/status/1248711829070774274)
+- [Perfect XL](https://www.perfectxl.com/) helps some
