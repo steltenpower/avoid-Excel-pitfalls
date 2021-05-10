@@ -1,5 +1,6 @@
 Well-meaning people using Excel, are without realizing it, too often making analysts and coders cry for inefficiency reasons.
 This is very costly, both financially and emotionally, and must be improved:
+<img src="https://repository-images.githubusercontent.com/244763599/c07ee780-7893-11eb-92b4-f02910371f4e">
 - I suggest to have everybody invest a few hours in ["Data Organization in Spreadsheets ..."](https://datacarpentry.org/spreadsheet-ecology-lesson/).
 - Advertise that course, this page, or your own, widely in contexts, including in the default 'new Excel sheet'.
 - Try a pre-structured spreadsheet, like what I made a rough sketch for in the Excel file in this repo.
