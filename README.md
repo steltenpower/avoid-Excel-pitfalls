@@ -8,6 +8,8 @@ This is very costly, both financially and emotionally, and must be improved:
 - Questions will arise and Digital Competence Centers and the like should be great at answering them
 - It is not uncommon that finding and cleaning of data takes way more time than everything else in a project. Put that in your planning and make sure managers read it, to make sure they think about investing in data quality.
 - (Mental note: Excel's comma-delimited .csv is actually semi-colon (;) delimited. See if there are carpentries.org courses to explain this and maybe mention how to roundtrip from Python/R with Excel on CSV)
+- [Why electronic notebooks make you work together faster and fewer errors](https://github.com/steltenpower/PowerGists/blob/main/animation.md)
+- If datacarpentry and softwarecarpentry sound scary, try [Library Carpentry](https://librarycarpentry.org/)
 
 If you actually want or need further structuring of data:
 - [oversimplified ultra-summary of FAIR data principles](https://srs.saxion.nl/wp-content/uploads/2019/01/SRS_poster_2019_FAIR-724x1024.jpg), from there go to [GO_FAIR](https://go-fair.org) for the real deal.
